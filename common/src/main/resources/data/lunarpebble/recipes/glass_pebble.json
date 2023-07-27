@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#S#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glass"
+    },
+    "S": {
+      "item": "lunarpebble:pebble"
+    }
+  },
+  "result": {
+    "item": "lunarpebble:glass_pebble",
+    "count": 1
+  }
+}

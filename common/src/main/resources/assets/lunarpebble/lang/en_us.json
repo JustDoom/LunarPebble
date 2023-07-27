@@ -1,5 +1,6 @@
 {
   "category.pebble_tab": "Pebble",
 
-  "item.lunarpebble.pebble": "Pebble"
+  "item.lunarpebble.pebble": "Pebble",
+  "item.lunarpebble.glass_pebble": "Glass Pebble"
 }
