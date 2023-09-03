@@ -9,8 +9,7 @@ import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 
-public class LunarPebble
-{
+public class LunarPebble {
 	public static final String MOD_ID = "lunarpebble";
 
 	public static final DeferredRegister<CreativeModeTab> TABS = DeferredRegister.create(MOD_ID, Registries.CREATIVE_MODE_TAB);
