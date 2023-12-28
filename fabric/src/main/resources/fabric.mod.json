@@ -12,7 +12,11 @@
   "icon": "icon.png",
 
   "environment": "*",
-  "entrypoints": {},
+  "entrypoints": {
+    "main": [
+      "com.imjustdoom.lunarpebble.fabric.LunarPebbleFabric"
+    ]
+  },
   "depends": {
     "fabricloader": ">=0.14.21",
     "minecraft": ">=1.20.1"
